@@ -1,4 +1,27 @@
-# Getting Started with Create React App
+# Habbit Tracker React
+
+The habit tracker is designed to efficiently manage daily tasks by prioritizing upcoming activities with a user-friendly interface. It allows users to seamlessly update, delete, and add new habits, ensuring smooth task management. With a focus on displaying the most relevant information first, it empowers users to stay organized and productive in their daily routines.
+
+## Tech Stack
+* React.JS
+* HTML
+* CSS
+* Java Script
+* Bootstrap
+
+### Project hosted on :- [https://dheerajap1999.github.io/Habbit-Tracker-React](https://dheerajap1999.github.io/Habbit-Tracker-React)
+
+## To run applications on your devices.
+
+### Follow the instructions below.
+
+* Copy this URL [https://github.com/dheerajap1999/Shopping-Cart-BusyBuy.git](https://github.com/dheerajap1999/Shopping-Cart-BusyBuy.git) and on your desired folder clone this repository.
+* Then open the folder with any code editor and in the terminal go to the desired path using the cd command.
+* After that to install all the packages and library which was used in this application type `npm install` or `npm i`.
+* After completing the installation type `npm start` this will host the application on [http://localhost:3000](http://localhost:3000).
+* That's it and you are good to go.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
